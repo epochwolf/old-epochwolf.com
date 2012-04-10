@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Scott Grimes'
+date: 2010-01-14 13:58
+comments: true
+categories: [sf, writing]
+---
+## Context
+Scott Grimes is adapted from a story I wrote in 2007 for nanowrimo. I've come to the conclusion that nanowrimo just frustrates me. (If you like it, keep at it.) I've gotten far more enjoyment plunking down in a coffee for an evening to enjoy coffee and writing. I care more about enjoying what I write than I do about making a novel. If it's not fun for me to write, I doubt it will be fun for you to read. 
+
+## Story
+It was a cold winter day in Minnesota. Arctic air was blowing out of Canada. The forecast over the local grocery's intercom predicted a major snow storm would be closing in over the night. Scott Grimes was one of many people in the small town just south of a military base stocking up supplies for the next few days. Scott was trying very hard to ignore the large number of angry stares and fearful glances he was attracting. Several of the people in the store were carrying holstered stun pistols. 
+
+Scott was a decorated combat veteran. He had six extra-planetary mission stars and a silver star on his dress uniform. He had joined the military when he turned eighteen against his father's demands he go to business school. Joining the military was an act of rebellion, which he didn't regret. After basic training he signed on with the marines. Most of the recruits were required to under go genetic modification. Scott choose the most extreme, most special of companies: the Winter Commandos. 
+
+Officially the marines designated a Winter Commando as a GeneMod A441. Unofficially GeneMod A441s were called "Anthos" by the rest of the marines. Doctors had found a way to turn a baseline human into a two-legged feline predator complete with prehensile tail, and white whiskers. The end result was barely human in form or temperament. The Marines wanted a predator specifically built for urban combat but flexible enough to handle any planetary terrain. They got exactly want they wanted. 
+
+The program had been in place for nearly 50 years with great success. The marines considered the Winter Commandos as a valuable assest. They had executed a total of 67 missions with minimal loss of life until New Africa. 
+
+New Africa had declared war on Earth citing racial and economic discrimination. All available Winter Commandos where sent along with as large as a task force Earth and it's allies could send. The entire force of Winter Commandos had been airdropped into several of New Africa's largest cities. The goal was to destroy all utilities and power stations in those cities and force the New African government to surrender. The end result was horrifying to both sides. The Winter Commandos dropped on several cities went on killing sprees resulting in enormous civilian causalities. Later analysis would point to the ecological term "surplus killing" as a possible explanation. Nearly two-thirds of the Winter Commandos dropped had to be killed by Earth marines. New Africa surrendered quicker than had been expected but no-one had cared about the war any more. 
+
+The fallout was extreme. An interplanetary conference was called and the city of Chicago on Earth was chosen as a meeting place. The Treaty of Chicago was drafted and signed three months later. The treaty banned the use of genetically modified soldiers and defined unlawful combatants which had been ignored by the Geneva Conventions.
+
+Scott was honorably discharged after the signing of the treaty. He was one of the few commandos fortunate enough to be in a city that wasn't littered with civilian bodies. His platoon was cleared of any possible war crimes. As a result he was able to receive a meager pension. Unfortunately being cleared of war crimes didn't mean anything to an angry public. 
+
+Scott winced as some kid pulled on his tail. He heard the mother scolding her kid. Instead of lecturing her son or daughter about being polite she said the cat man might eat any offensive kids. The words spoken behind his back were the worst ones. He wasn't a person, just some werewolf people told stories about to their kids. At least one person's hand moved closer to his stunner. 
+
+He picked through the fruits and vegetables, adding a bag of apples, a bunch of bananas, several bags of spinach, and several yams to his cart. He moved on to the freezers and grabbed a dozen frozen stir-fry mixes. A large bag of rice was thrown in later. He always avoiding purchasing fresh meat from the grocery store. Only once had he done that and it seemed to make everyone more nervous. Instead he purchased any meat he would need from a butcher shop in the next town nearly twenty miles away.
+
+Once he reached the checkout he was nearly panting. He had worn his knee length coat during his entire time in the store. The combination of a coat, his uniform, and his fur was stifling. The A441 genetic modifications had removed sweat glands from most of his body. Like a cat only the pads on his hands and feet would sweat. He quickly paid his bill in cash and carried his groceries outside. The dogsled he had brought with him was still outside the store. He piled his groceries onto it and started walking the mile to his apartment.
+
+He reached his apartment complex as clouds obscured the sun. His apartment was on the sunken ground floor so he could drag his sled inside. The landlord was a veteran of some war that happened before he was born and was the only person in town that wasn't afraid of him. He was the also the only person that would rent him a room. It wasn't the best room in the building. Scott suspected the building used to be a nursing home or clinic and his room had been a store room. It was always cold because of some issue with the heating ducts and the floor was sealed concrete. At least it had a full bath. Cleaning fur in a small shower stall would had been difficult. 
+
+After getting his dogsled past the door, he hung his coat up in the closet. Getting his boots off was more involved than he liked. Normal shoes wouldn't fit his paw-like feet so he was forced to walk barefoot or wear one of his pairs of combat boots. Finally free of his outerwear he dragged the dogsled into the kitchen to put the food his purchased away. His fridge was well stocked with fresh fruit and vegetables. It had little else in it. Another side effect of the gene modifications had been an intolerance to lactose in most of those receiving the mods. He also needed to eat larger amounts of meat than any human would need. That was one side effect he didn't mind. 
+
+With the food finally put away and the water from the melted snow he dragged in mopped up, Scott could finally take a few minutes to relax. He was looking forward to the storm. He was planning to hike several miles out of town and build a shelter to spend a few days in the harshest terrestrial conditions he'd ever been in. He turned off all the lights, leaving the apartment in pitch black, and settled cross-legged on a small rug in front of a candle. With the flick of a lighter he lit the candle and then turned around. With his sensitive night-vision, he didn't want to look directly into the candle. The light reflected on the wall was perfect to mediate on. He inhaled deeply, cleared his mind, and waited for the coming storm.

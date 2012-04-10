@@ -4,6 +4,7 @@ title: "Rediscovering Writing"
 date: 2010-01-14 11:04
 comments: true
 categories: irl
+aliases: [rediscovering-writing]
 ---
 I've recently gotten back into writing. Since boring high school study halls I've done some writing for fun. I'm easily distracted so it can be difficult for me to focus on anything creative. Over the last two years I've really neglected my writing simply because I'm so distracted with projects and anything shiny nearby. I credit three things with my rediscovery: acceptance of my procrastination, ommwriter, and getting my friends out of town. 
 

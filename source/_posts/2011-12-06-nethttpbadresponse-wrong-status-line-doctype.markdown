@@ -4,6 +4,7 @@ title: 'Net::HTTPBadResponse: wrong status line: "<!DOCTYPE HTML PUBLIC \"-//IET
 date: 2011-12-06 17:19
 comments: true
 categories: programming
+aliases: [nethttpbadresponse-wrong-status-line-doctype]
 ---
 If you ever see: `Net::HTTPBadResponse: wrong status line "<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2.0//EN\">"`
 

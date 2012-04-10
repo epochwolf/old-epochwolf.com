@@ -4,6 +4,7 @@ title: "Using Bluecloth 2.0"
 date: 2010-01-18 11:04
 comments: true
 categories: irl
+aliases: [using-bluecloth-20]
 ---
 This is a quick reference for how to use the BlueCloth 2.0 gem. I couldn't find anything anywhere on how to use this gem so I used irb and the C source of the plugin to figure it out.
 
