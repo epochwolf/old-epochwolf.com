@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "About Writing"
-date: 2012-04-09 00:42
 comments: false
 sharing: true
 footer: true
