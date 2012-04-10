@@ -11,6 +11,8 @@ Most of my stories are available at [storm-artists.net](http://epochwolf.storm-a
 
 I have three main universes my stories exist in: a fantasy universe, a science fiction universe, and a furry universe. Most of my stories take place in on of these three universes. For example: my two major furry stories (*Tempest* and "A Lack of Immunity") take place in the same universe. It's unlikely that Tempest and David will ever meet but they could.
 
+If you don't know what a furry is, go [here](/pages/what-is-a-furry).
+
 ## Fantasy Universe: Kingdom of Zergon
 
 The Kingdom of Zergon is a small nation constisting of a single city deep in the mountains. To the west there is an ocean and sea ports. The sea ports have poor farming and rely on trade for most of their food supply. To the east is a large kingdom the size of modern Germany. This kingdom is ruled by a king and a Church.

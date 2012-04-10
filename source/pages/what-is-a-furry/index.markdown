@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "what is a furry?"
+title: "What is a furry?"
 date: 2012-04-09 20:54
 comments: true
 sharing: true
