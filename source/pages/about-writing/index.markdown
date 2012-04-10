@@ -10,7 +10,7 @@ Most of my stories are available at [storm-artists.net](http://epochwolf.storm-a
 
 I have three main universes my stories exist in: a fantasy universe, a science fiction universe, and a furry universe. Most of my stories take place in on of these three universes. For example: my two major furry stories (*Tempest* and "A Lack of Immunity") take place in the same universe. It's unlikely that Tempest and David will ever meet but they could.
 
-If you don't know what a furry is, go [here](/pages/what-is-a-furry).
+If you don't know what a furry is, I have an explanation [here](/pages/what-is-a-furry).
 
 ## Fantasy Universe: Kingdom of Zergon
 

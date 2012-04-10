@@ -6,7 +6,7 @@ comments: true
 categories: [furry, writing]
 ---
 ## Context
-One of my favorite furry stories I've written. (If you don't know what a furry is, head over [here](/pages/what-is-a-furry)
+One of my favorite furry stories I've written. (If you don't know what a furry is, I have an explaination [here](/pages/what-is-a-furry))
 
 ## Story
 David woke up late in an unfamiliar room. His sandy-brown fur was matted, his tail had a kink in it, and he had a bad taste in his mouth. There was enough sunlight leaking through the shades to read comfortably. As he sat up the room began to look more familiar. He was at his aunt Julia's house in New York City. The room on the tiny third floor. The peaked roof of the house was the room's ceiling. His bed was against the front wall. A mexican rug was spread across the center of the room with one end of it at the side of his bed. His suitcases and backpack lay against the left wall opposite a desk. He stood up, careful not to hit his head on the ceiling which was so low he couldn't stretch out his arms fully, and yawned loudly. A clock on the desk read 10:20.
