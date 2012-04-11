@@ -1,4 +1,6 @@
 #!/bin/bash
+# Checks for broken links.
+# Requires rake preview to be running.
 wget -e robots=off --spider -r -l 8 -o wget_errors.txt http://localhost:4000
 
 EXIT_CODE=$?
