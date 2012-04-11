@@ -25,7 +25,7 @@ If you're going to run bleeding edge, you will bleed profusely. I nearly lost an
     2.  Download, compile, and install ruby 1.9.2-head
     3.  Install rails 3 rc and application gems
     4.  Instant internal server errors relating to failsafe failing.
-    5.  #rails-contrib recommends 1.9.2-rc2
+    5.  \#rails-contrib recommends 1.9.2-rc2
 4.  Try ruby 1.9.2-rc2
     1.  Not installed
     2.  Download, compile, and install ruby-1.9.2-rc2
