@@ -4,7 +4,7 @@ title: "Capistrano: use git repository on the same server you deploy to"
 date: 2010-04-15 18:32
 comments: true
 categories: programming
-aliases: [capistrano-use-git-repository-on-the-same-ser]
+alias: [capistrano-use-git-repository-on-the-same-ser]
 ---
 I ran across an interesting problem the other night. I finally convinced myself that I need to set up automated deployment for a personal website I was working on. The website is written in Ruby on Rails and I decided to use capistrano for deployment like ever other person I know that uses rails. The first problem I had was the capistrano docs are really really lacking in details. The tutorial covers the basics but that only works if you aren't doing something wacky.
 

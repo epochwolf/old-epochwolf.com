@@ -4,7 +4,7 @@ title: "Choosing genre tags for singleforest.com"
 date: 2010-01-10 22:07
 comments: true
 categories: singleforest
-aliases: [choosing-genre-tags-for-singleforestcom]
+alias: [choosing-genre-tags-for-singleforestcom]
 ---
 This is the first post about <a href="http://singleforest.com">singleforest.com</a> I've written so, I need to briefly explain what <a href="http://singleforest.com">singleforest.com</a> is.
 

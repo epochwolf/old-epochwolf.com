@@ -8,6 +8,12 @@ p.meta .categories a.category:hover{
 
 html ul{
   list-style: disc inside;
+  ul {
+    list-style-type: circle;
+    ul {
+      list-style-type: square;
+    }
+  }
 }
 
 html ol{

@@ -4,7 +4,7 @@ title: "Singleforest Beta Soon (for real)"
 date: 2011-04-14 16:15
 comments: true
 categories: singleforest
-aliases: [singleforest-beta-soon-for-real]
+alias: [singleforest-beta-soon-for-real]
 ---
 
 So close, I can taste it. Singleforest is nearly ready for beta. I've hammered the most the major bugs I'm aware of. 

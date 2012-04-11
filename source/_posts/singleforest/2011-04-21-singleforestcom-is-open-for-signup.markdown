@@ -4,7 +4,7 @@ title: 'Singleforest.com is open for signup'
 date: 2010-05-05 13:44
 comments: true
 categories: [singleforest]
-aliases: [singleforestcom-is-open-for-signup]
+alias: [singleforestcom-is-open-for-signup]
 ---
 TL;DR Singleforest.com is deviantArt for literature. 
 
