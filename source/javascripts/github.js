@@ -10,8 +10,9 @@ var github = (function(){
   return {
     showRepos: function(options){
       $.ajax({
-          url: "http://github.com/api/v2/json/repos/show/"+options.user+"?callback=?"
+          url: "http://api.github.com/"+options.user+"/repos/?callback=?"
         , type: 'jsonp'
+        , headers: {Accept: 'application/vnd.github.beta+json'}
         , error: function (err) { $(options.target + ' li.loading').addClass('error').text("Error loading feed"); }
         , success: function(data) {
           var repos = [];
